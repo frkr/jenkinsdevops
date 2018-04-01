@@ -1,0 +1,7 @@
+blueocean
+github-oauth
+gitlab-oauth
+ldapemail
+dotnet-as-script
+docker-slaves
+sonar
